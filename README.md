@@ -1,4 +1,3 @@
-# environment-detection
 # Environment Detection
 
 ## Overview
